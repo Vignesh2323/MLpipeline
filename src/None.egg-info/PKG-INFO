@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: None
+Version: 0.0.0
+Summary: A python package for ml app
+Home-page: https://github.com/Vignesh2323/MLpipeline.git
+Author: Vignesh2323
+Author-email: vignesh10894@gmail.com
+Project-URL: Bug Tracker, https://github.com/Vignesh2323/MLpipeline/issues
+License-File: LICENSE
+
+# MLpipeline
+Machine learning pipeline training
